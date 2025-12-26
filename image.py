@@ -23,3 +23,5 @@ if st.button('GET RESPOSE'):
     response=model.generate_content([prompt,img])
     st.markdown(response.text)
      
+
+# mof]d\\\\\
